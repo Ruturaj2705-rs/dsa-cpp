@@ -1,6 +1,6 @@
 # Arrays
 
-This folder contains array-related DSA problems implemented in C++.
+This folder contains array-related DSA problems and solutions in C++.
 
 ## Problems
 
