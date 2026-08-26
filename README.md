@@ -92,8 +92,14 @@ dsa-cpp/
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Ruturaj2705-rs/dsa-cpp/tree/master/0033-search-in-rotated-sorted-array) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Ruturaj2705-rs/dsa-cpp/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Binary Search
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Ruturaj2705-rs/dsa-cpp/tree/master/0033-search-in-rotated-sorted-array) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Ruturaj2705-rs/dsa-cpp/tree/master/0852-peak-index-in-a-mountain-array) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Ruturaj2705-rs/dsa-cpp/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
