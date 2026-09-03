@@ -93,12 +93,14 @@ dsa-cpp/
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Ruturaj2705-rs/dsa-cpp/tree/master/0033-search-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Ruturaj2705-rs/dsa-cpp/tree/master/0162-find-peak-element) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Ruturaj2705-rs/dsa-cpp/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Ruturaj2705-rs/dsa-cpp/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Binary Search
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Ruturaj2705-rs/dsa-cpp/tree/master/0033-search-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Ruturaj2705-rs/dsa-cpp/tree/master/0162-find-peak-element) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Ruturaj2705-rs/dsa-cpp/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Ruturaj2705-rs/dsa-cpp/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Ternary Search
 |  |
