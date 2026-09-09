@@ -91,6 +91,7 @@ dsa-cpp/
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Ruturaj2705-rs/dsa-cpp/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Ruturaj2705-rs/dsa-cpp/tree/master/0033-search-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Ruturaj2705-rs/dsa-cpp/tree/master/0162-find-peak-element) |
 | [0238-product-of-array-except-self](https://github.com/Ruturaj2705-rs/dsa-cpp/tree/master/0238-product-of-array-except-self) |
@@ -111,4 +112,8 @@ dsa-cpp/
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Ruturaj2705-rs/dsa-cpp/tree/master/0238-product-of-array-except-self) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Ruturaj2705-rs/dsa-cpp/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
