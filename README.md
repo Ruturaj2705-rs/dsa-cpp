@@ -98,6 +98,7 @@ dsa-cpp/
 | [0238-product-of-array-except-self](https://github.com/Ruturaj2705-rs/dsa-cpp/tree/master/0238-product-of-array-except-self) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Ruturaj2705-rs/dsa-cpp/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Ruturaj2705-rs/dsa-cpp/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1470-shuffle-the-array](https://github.com/Ruturaj2705-rs/dsa-cpp/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Ruturaj2705-rs/dsa-cpp/tree/master/1480-running-sum-of-1d-array) |
 ## Binary Search
 |  |
