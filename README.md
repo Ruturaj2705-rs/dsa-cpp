@@ -100,6 +100,7 @@ dsa-cpp/
 | [0852-peak-index-in-a-mountain-array](https://github.com/Ruturaj2705-rs/dsa-cpp/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1470-shuffle-the-array](https://github.com/Ruturaj2705-rs/dsa-cpp/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Ruturaj2705-rs/dsa-cpp/tree/master/1480-running-sum-of-1d-array) |
+| [1672-richest-customer-wealth](https://github.com/Ruturaj2705-rs/dsa-cpp/tree/master/1672-richest-customer-wealth) |
 ## Binary Search
 |  |
 | ------- |
@@ -121,4 +122,8 @@ dsa-cpp/
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ruturaj2705-rs/dsa-cpp/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Ruturaj2705-rs/dsa-cpp/tree/master/0027-remove-element) |
+## Matrix
+|  |
+| ------- |
+| [1672-richest-customer-wealth](https://github.com/Ruturaj2705-rs/dsa-cpp/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
