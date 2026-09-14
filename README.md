@@ -95,6 +95,7 @@ dsa-cpp/
 | [0027-remove-element](https://github.com/Ruturaj2705-rs/dsa-cpp/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Ruturaj2705-rs/dsa-cpp/tree/master/0033-search-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Ruturaj2705-rs/dsa-cpp/tree/master/0162-find-peak-element) |
+| [0217-contains-duplicate](https://github.com/Ruturaj2705-rs/dsa-cpp/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Ruturaj2705-rs/dsa-cpp/tree/master/0238-product-of-array-except-self) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Ruturaj2705-rs/dsa-cpp/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Ruturaj2705-rs/dsa-cpp/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -131,4 +132,12 @@ dsa-cpp/
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/Ruturaj2705-rs/dsa-cpp/tree/master/1929-concatenation-of-array) |
+## Hash Table
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/Ruturaj2705-rs/dsa-cpp/tree/master/0217-contains-duplicate) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/Ruturaj2705-rs/dsa-cpp/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
