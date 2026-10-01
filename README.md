@@ -91,6 +91,7 @@ dsa-cpp/
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Ruturaj2705-rs/dsa-cpp/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ruturaj2705-rs/dsa-cpp/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Ruturaj2705-rs/dsa-cpp/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Ruturaj2705-rs/dsa-cpp/tree/master/0033-search-in-rotated-sorted-array) |
@@ -124,6 +125,7 @@ dsa-cpp/
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Ruturaj2705-rs/dsa-cpp/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ruturaj2705-rs/dsa-cpp/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Ruturaj2705-rs/dsa-cpp/tree/master/0027-remove-element) |
 ## Matrix
@@ -146,4 +148,8 @@ dsa-cpp/
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Ruturaj2705-rs/dsa-cpp/tree/master/0009-palindrome-number) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Ruturaj2705-rs/dsa-cpp/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
